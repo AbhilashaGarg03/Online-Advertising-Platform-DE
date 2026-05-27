@@ -155,7 +155,9 @@ Key configuration files:
 
 ## License
 
-[License Information]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter)](https://jupyter.org/)
 
 ## References
 
