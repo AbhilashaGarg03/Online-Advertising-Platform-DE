@@ -1,0 +1,54 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+data/
+
+# Logs
+*.log
+logs/
+
+# Cache
+*.cache
+.pytest_cache/
+
+# Environment
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.temp
+
+# Kafka files
+kafka-logs/
+*.offset
+
+# Database files
+*.db
+*.sqlite
+
+# Config overrides
+config/local/
