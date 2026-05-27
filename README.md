@@ -1,4 +1,4 @@
-# DE-M7
+# Online Advertising Platform -DE
 DE project on Online Adverstising Platform
 With increasing digitisation, there has been a tremendous boom in the field of online advertising as more and more companies are willing to pay large amounts of money in order to reach the customers via online platform. So, in this project, we will be building an online advertising platform.
 
